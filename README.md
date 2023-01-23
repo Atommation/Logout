@@ -12,5 +12,6 @@ v1.0.3,ToMr.Wang.go
 
 v1.0.4,CalculateGame.go
 #this soucecode is updated, becuase of bug fixing
+
 v1.0.5,CalculateGame.go
 #bug fixng to 1.0.4
